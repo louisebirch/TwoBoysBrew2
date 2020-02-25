@@ -1,0 +1,96 @@
+.nav { 
+height:600px; 
+
+
+}
+
+.navimage { 
+height:600px; 
+display:block; 
+margin-left:auto;
+margin-right:auto; 
+width: 100%;
+
+
+} 
+
+.hero {
+height: 450px;
+display:block;
+	
+} 
+
+.heroimage {
+height: 450px;
+display:block;
+margin-left:auto;
+margin-right:auto;
+width:100%; 
+	
+} 
+
+.food {
+height: 500px;
+display:block;
+	
+	
+	
+} 
+
+.foodpics{
+height: 500px;
+display:block;
+margin-left:auto;
+margin-right:auto;
+width:100%; 
+	
+	
+	
+} 
+
+.map{ 
+height:300px; 
+display:block;
+
+
+} 
+
+.mapimage { 
+height: 350px;
+display:block;
+margin-left:auto;
+margin-right:auto;
+width:100%; 
+	
+
+
+} 
+
+.mapimage {
+height: 350px;
+display:block;
+margin-left:auto;
+margin-right:auto;
+width:100%; 
+	
+	
+} 
+
+.footer{ 
+height:400px; 
+display:block
+
+} 
+
+.footerimage { 
+height: 400px;
+display:block;
+margin-left:auto;
+margin-right:auto;
+width:100%; 
+	
+
+
+
+
+} 
